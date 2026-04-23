@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **Twahah**, a passionate web developer from the heart of **Kampala, Uganda**. I love turning ideas into real, functional web products — whether that means crafting pixel-perfect UIs or engineering solid back-end logic.
+I'm **Twahah**, a passionate web developer from the heart of **Kampala, Uganda**. I love turning ideas into real, functional web products - whether that means crafting pixel-perfect UIs or engineering solid back-end logic.
 
 I thrive on **collaboration**, enjoy working with fellow developers on meaningful projects, and I'm always keen to learn the latest tools in the ecosystem.
 
@@ -63,8 +63,8 @@ I thrive on **collaboration**, enjoy working with fellow developers on meaningfu
 
 ### Tools & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-F24E1E?style=for-the-badge&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-7952B3?style=for-the-badge&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F7DF1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
