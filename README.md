@@ -54,7 +54,8 @@ I thrive on **collaboration**, enjoy working with fellow developers on meaningfu
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Mobile Apps
-![MySQL](https://img.shields.io/badge/Flutter-4479A1?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-4479A1?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-4FC08D?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -62,6 +63,7 @@ I thrive on **collaboration**, enjoy working with fellow developers on meaningfu
 
 ### Tools & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-F24E1E?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
