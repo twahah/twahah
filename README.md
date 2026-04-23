@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm **Twahah**, a passionate web developer from the heart of **Kampala, Uganda**. I love turning ideas into real, functional web products - whether that means crafting pixel-perfect UIs or engineering solid back-end logic.
 
@@ -38,7 +38,7 @@ I thrive on **collaboration**, enjoy working with fellow developers on meaningfu
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,7 +59,7 @@ I thrive on **collaboration**, enjoy working with fellow developers on meaningfu
 
 ### Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostGres](https://img.shields.io/badge/Postgres-06B6D4?style=for-the-badge&logo=Postgres&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-06B6D4?style=for-the-badge&logo=postgresql&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools & Design
@@ -69,7 +69,7 @@ I thrive on **collaboration**, enjoy working with fellow developers on meaningfu
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -85,7 +85,7 @@ I thrive on **collaboration**, enjoy working with fellow developers on meaningfu
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm always open to interesting projects, collaboration opportunities, or just a good conversation about tech. Feel free to reach out!
 
