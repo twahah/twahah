@@ -53,6 +53,9 @@ I thrive on **collaboration**, enjoy working with fellow developers on meaningfu
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
+### Mobile Applications
+![Laravel](https://img.shields.io/badge/Flutter-FF2D20?style=for-the-badge&logo=Flutter&logoColor=blue)
+
 ### Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -85,7 +88,7 @@ I'm always open to interesting projects, collaboration opportunities, or just a 
 
 <div align="center">
 
-**"First, solve the problem. Then, write the code." — John Johnson**
+**"First, solve the problem. Then, write the code." - John Johnson**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=twahah&color=blue&style=for-the-badge)
 
