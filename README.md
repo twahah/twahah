@@ -12,7 +12,7 @@
 # Twahah Kaweesi
 ### Full-Stack Web Developer · Kampala, Uganda 🇺🇬
 
-*Building responsive, interactive, and delightful web experiences — one commit at a time.*
+*Building responsive, interactive, and delightful web experiences - one commit at a time.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/twahah-kaweesi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/twahah)
