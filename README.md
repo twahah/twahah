@@ -15,7 +15,6 @@
 *Building responsive, interactive, and delightful web experiences — one commit at a time.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/twahah-kaweesi)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@twahah)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/twahah)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/twahah)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/twahah)
@@ -33,8 +32,7 @@ I thrive on **collaboration**, enjoy working with fellow developers on meaningfu
 
 - 🔭 Currently working on projects with **Vue.js & Laravel**
 - 🌱 Growing my skills in full-stack development every day
-- ✍️ I write about web development on [Medium](https://medium.com/@twahah)
-- 💬 Ask me about **JavaScript, Node.js, or anything front-end**
+- 💬 Ask me about **JavaScript, Laravel, or anything web-development**
 - 📫 Reach me at **twahah.kaweesi@hotmail.com**
 - ⚡ Fun fact: I believe clean code is a form of art
 
@@ -51,9 +49,9 @@ I thrive on **collaboration**, enjoy working with fellow developers on meaningfu
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -69,7 +67,6 @@ I thrive on **collaboration**, enjoy working with fellow developers on meaningfu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=twahah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twahah&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
@@ -79,14 +76,6 @@ I thrive on **collaboration**, enjoy working with fellow developers on meaningfu
 [![GitHub Streak](https://streak-stats.demolab.com?user=twahah&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 📝 Latest Articles
-
-<!-- BLOG-POST-LIST:START -->
-> ✍️ I write about web development, tools, and developer tips on [Medium](https://medium.com/@twahah). Check it out!
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
