@@ -59,6 +59,7 @@ I thrive on **collaboration**, enjoy working with fellow developers on meaningfu
 
 ### Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostGres](https://img.shields.io/badge/Postgres-06B6D4?style=for-the-badge&logo=Postgres&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools & Design
