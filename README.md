@@ -53,8 +53,8 @@ I thrive on **collaboration**, enjoy working with fellow developers on meaningfu
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Mobile Applications
-![Laravel](https://img.shields.io/badge/Flutter-FF2D20?style=for-the-badge&logo=Flutter&logoColor=blue)
+### Mobile Apps
+![Laravel](https://img.shields.io/badge/Flutter-FF2D20?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
